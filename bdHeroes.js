@@ -1,7 +1,7 @@
 var heroes=[
-    new Heroe("1","Bilbo","Bolson"),
-    new Heroe(2,"Frodo","Bolson"),
-    new Heroe(3,"Harry","Potter"),
-    new Heroe(4,"Ron","Weasly"),
-    new Heroe(5,"Germahiony","Grenger"),
+    new Heroe("1","Bob","Marley"),
+    new Heroe(2,"Frank","Monster"),
+    new Heroe(3,"Harry","Style"),
+    new Heroe(4,"Louis","Tomlinson"),
+    new Heroe(5,"Lauren","Jauregui"),
 ]
